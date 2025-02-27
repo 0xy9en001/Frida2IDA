@@ -6,7 +6,7 @@
 
 右键弹窗菜单
 
-![img1](https://github.com/0xy9en001/Frida2IDA/blob/8b5dc70e5f65012704fd3249a6e1b42b78841a32/img/91dd9e02-a03f-4635-aec5-9a89416763ad.png)
+![img](https://github.com/0xy9en001/Frida2IDA/blob/8f2893eaa61f997109fdc2cde790e6f91fcba0c6/img/387bbe05-0daf-4a15-8279-8d6d26544067.png)
 
 Edit -> Frida2IDA
 
