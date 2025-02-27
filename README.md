@@ -12,7 +12,7 @@ Edit -> Frida2IDA
 
 ![img2](https://github.com/0xy9en001/Frida2IDA/blob/2748a8c5eea9fd733cd8ee58427bc42367f0f5f0/img/fa0398bd-94f0-4844-aca6-3ff3f8306b97.png)
 
-结果将复制到剪贴板中
+生成的Frida脚本将复制到剪贴板中
 
 ![img3](https://github.com/0xy9en001/Frida2IDA/blob/ea6756e0f078efc7c4db1269db99779d1d250d4c/img/5c6b2687-4df1-4b64-9a46-a0de707fb91b.png)
 
